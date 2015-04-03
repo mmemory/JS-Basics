@@ -47,7 +47,7 @@ var welcome = function () {
 
 //What is the difference between arguments and parameters?
 
-  //Answer Here
+// Parameters are variables that are processed by a function when it runs. Arguments are passed into the function according to the parameters stated.
 
 
 //Next problem
@@ -57,7 +57,7 @@ var welcome = function () {
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
 
-  //Answer Here
+  // Falsey values = NaN, null, undefined, 0, '', false
 
 
 
